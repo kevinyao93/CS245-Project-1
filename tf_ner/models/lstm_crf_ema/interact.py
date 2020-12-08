@@ -1,5 +1,7 @@
 """Interact with a model"""
 
+## Updated to upload file directly
+
 __author__ = "Guillaume Genthial"
 
 from pathlib import Path
@@ -10,7 +12,6 @@ import tensorflow as tf
 
 from main import model_fn
 
-LINE = 'Wayne Ferreira of South Africa, number four Marcelo Rios of Chile , number six MaliVai Washington of the United States and American Todd Martin'
 INPUT_FILE = '../../data/testdata1/train.words.txt'
 DATADIR = '../../data/testdata1'
 PARAMS = './results/params.json'
