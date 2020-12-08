@@ -1,0 +1,13 @@
+{
+    "batch_size": 20,
+    "buffer": 15000,
+    "chars": "../../data/testdata1/vocab.chars.txt",
+    "dim": 300,
+    "dropout": 0.5,
+    "epochs": 25,
+    "glove": "../../data/testdata1/glove.npz",
+    "lstm_size": 100,
+    "num_oov_buckets": 1,
+    "tags": "../../data/testdata1/vocab.tags.txt",
+    "words": "../../data/testdata1/vocab.words.txt"
+}
