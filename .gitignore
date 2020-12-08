@@ -1,3 +1,4 @@
 
 tf_ner/data/testdata1/glove.840B.300d.txt
 tf_ner/data/testdata1/glove.840B.300d.zip
+tf_ner/tf_metrics/
