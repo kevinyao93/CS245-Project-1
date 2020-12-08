@@ -4,8 +4,10 @@ Seed-based Weakly Supervised Named Entity Recognition
 
 
 
-Setup for Tensorflow-Named Entity Recognition
-*Notes 
+<b> Setup for Tensorflow-Named Entity Recognition </b>
+
+Note 
+
 Utilizes tensorflow 1.13.1, but requires python 3.7.9 or lower. Can utilize pyenv to update local python enviornment.
 
 Can either follow steps within the readme, but here's a summary
