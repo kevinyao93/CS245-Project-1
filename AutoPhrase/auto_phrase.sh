@@ -21,7 +21,7 @@ else
 fi
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
-DEFAULT_TRAIN=${DATA_DIR}/EN/new_g_train.txt
+DEFAULT_TRAIN=${DATA_DIR}/EN/2020-03-22_clean-hydrated.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 # When FIRST_RUN is set to 1, AutoPhrase will run all preprocessing. 
 # Otherwise, AutoPhrase directly starts from the current preprocessed data in the tmp/ folder.
