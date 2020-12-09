@@ -1,0 +1,857 @@
+0.9579007324	frank lampard
+0.9579007324	trinity college
+0.9579007324	clive palmer
+0.9579007324	pope francis
+0.9579007324	malaysia airlines
+0.9572458606	andrew wiggins
+0.9572458606	united kingdom
+0.9559791781	sierra leone
+0.9548500659	richard flanagan
+0.9541148422	manchester united
+0.9463321876	mike tindall
+0.9458166166	nigel farage
+0.9458166166	mount polley
+0.9458166166	kerry stokes
+0.9458166166	greg anderson
+0.9458166166	roald dahl
+0.9458166166	jackie kelly
+0.9458166166	newton emerson
+0.9458166166	troy grant
+0.9458166166	allison morris
+0.9458166166	purdy crawford
+0.9458166166	buckingham palace
+0.9451205859	alex salmond
+0.9434941825	barack obama
+0.9431560475	prince william
+0.9407040399	cliff richard
+0.9405654171	rob ford
+0.9402454212	jarryd hayne
+0.9393028361	td bank
+0.9387921643	national guard
+0.9383190783	sir cliff richard
+0.9379690700	justin trudeau
+0.9377998790	gold coast titans
+0.9376142025	albert reynolds
+0.9370533011	world cup
+0.9358437287	joko widodo
+0.9358437287	douglas carswell
+0.9335643818	oscar pistorius
+0.9332258304	david cameron
+0.9330281620	kate middleton
+0.9328120469	islamic state
+0.9325196386	white house
+0.9314728809	gerry adams
+0.9305553764	zara phillips
+0.9302742294	richard attenborough
+0.9288387483	tony abbott
+0.9276629399	liberal party
+0.9251238502	james merlino
+0.9246025555	pippa middleton
+0.9236645346	south africa
+0.9219228983	peter mackay
+0.9216455997	west africa
+0.9190517404	president obama
+0.9189870568	supreme court
+0.9174393009	hmas cerberus
+0.9158235918	san francisco
+0.9148705917	niagara west glanbrook
+0.9124531870	south yorkshire police
+0.9119611089	alistair darling
+0.9119611089	sandymount strand
+0.9109181425	shaun wright
+0.9109181425	gino odjick
+0.9093154538	royal free hospital
+0.9085477420	tim hortons
+0.9085477420	ian macfarlane
+0.9077166969	prime minister
+0.9060563329	typhoon neoguri
+0.9047419980	tilbury docks
+0.9022999327	jim gibney
+0.9022999327	english channel
+0.9022999327	hurricane gonzalo
+0.8986914764	canuck gino odjick
+0.8984521986	eugenie bouchard
+0.8946642487	booker prize
+0.8920528140	health minister peter dutton
+0.8889483448	sky news
+0.8884839273	skillsetssc cc4g
+0.8883098419	prime minister stephen harper
+0.8868792255	brian feeney
+0.8868792255	sinn fein
+0.8839981887	exclusion zone
+0.8839162066	rosie batty
+0.8838508776	dirty tricks
+0.8822855864	statistics canada
+0.8811936519	reeva steenkamp
+0.8796856044	lac megantic
+0.8796312683	james foley
+0.8786083092	luke batty
+0.8747108933	south yorkshire pcc shaun wright
+0.8742544518	blue mountains
+0.8742544518	tina fontaine
+0.8705331241	9pm aedt
+0.8705331241	shia militia
+0.8705331241	salary cap
+0.8705331241	pellet guns
+0.8703037325	tory mp
+0.8694116094	irish news
+0.8684520494	atlantic canada
+0.8674159885	amazing race canada
+0.8642159840	primary school
+0.8590179399	indonesian president
+0.8581068070	cold case
+0.8540477128	yoga wear
+0.8515392249	real estate
+0.8467723612	vic labor
+0.8448887821	foreign fighters
+0.8432737852	peter robinson
+0.8372295930	east coast
+0.8349876833	federal government
+0.8329848112	faron hall
+0.8284857727	river foyle
+0.8284684844	pm david cameron
+0.8276898609	mental health
+0.8229917143	sex offender
+0.8226925054	health care
+0.8187117991	ebola virus
+0.8169431456	eastern ukraine
+0.8108392475	police officer
+0.8083558991	law firm
+0.8042321095	indecent assault
+0.7960337406	british national
+0.7940079718	child abuse
+0.7939578237	red river
+0.7860799423	royalwedding boosts
+0.7848386911	thundery downpours
+0.7832308581	icymi video
+0.7784979269	special forces
+0.7775973899	latest radar
+0.7766293409	human rights
+0.7731203888	bomb squad
+0.7719451058	reporter malcolm morrison
+0.7696626036	heavy showers
+0.7664795797	happy friday
+0.7655556953	mp porn
+0.7655167428	hazy sunshine
+0.7632231761	coronial inquest
+0.7613579898	liberal hopes
+0.7585562560	business reporters
+0.7582698300	majority government
+0.7549562061	long weekend
+0.7532399794	italia dining
+0.7524909855	harper heads
+0.7522873003	fast food restaurant
+0.7521895041	northern ireland
+0.7492863971	unclaimed assets
+0.7483630414	years ago
+0.7477681645	n't wait
+0.7458658436	islamic militants
+0.7404960843	latest story
+0.7402941836	sunset sky
+0.7394842245	won giro
+0.7381737338	sex charges
+0.7358834370	child health
+0.7343027165	islamic state militants
+0.7331612446	galway iwnews
+0.7306293966	draft pick
+0.7297336353	french government
+0.7289120818	scottish independence
+0.7279221622	african country
+0.7276546029	bardarbunga volcano
+0.7272333103	ice bucket challenge
+0.7262845957	poolbeg chimneys
+0.7256193330	shot dead
+0.7250783444	ontario liberals
+0.7220077173	face court
+0.7219007082	met chief
+0.7160180664	high risk
+0.7147931922	rt mariababbage
+0.7146629662	president petro poroshenko
+0.7138155020	ukraine forces
+0.7111305529	guest judge
+0.7097168109	death toll
+0.7044999044	wimbledon final
+0.7034650784	terror laws
+0.7027831010	⚡ ️
+0.7027643641	mi 6
+0.6973560945	inquest told
+0.6953436485	accuses russia
+0.6935706947	saskatchewan hit
+0.6910052686	us president barack obama
+0.6907212630	child deaths
+0.6893284869	tech sector
+0.6885946849	mcdonalds restaurant
+0.6875946471	⚠ ️
+0.6845533463	iraqi city
+0.6841014799	project director ed moloney
+0.6799421233	stock markets
+0.6795410403	bomb squad attends
+0.6781716764	female staff
+0.6760278137	wallabies coach ewen mckenzie
+0.6755744213	girostart2014 giroditalia
+0.6749907709	undercover police
+0.6736741326	aid worker
+0.6697634928	world cup squad
+0.6671893623	court action
+0.6669759756	russian troops
+0.6657115620	scattered showers
+0.6614215542	same sex marriage
+0.6579775866	batter nsw
+0.6566932261	australian bureau of statistics
+0.6536840093	girly man
+0.6529827771	israeli military
+0.6523470991	competition points
+0.6484303551	dangerous driving conditions
+0.6475880822	sex abuse
+0.6447426028	elect joko widodo
+0.6439254140	nba draft
+0.6430007134	white house confirms
+0.6416180040	winner stephen roche pink discoverni
+0.6406587464	cdn housing
+0.6406587464	advertising revenue
+0.6403662517	andrew stoner quits
+0.6399183536	founder chip wilson
+0.6390067583	spy agency
+0.6385867404	reporter maurinor
+0.6375337222	fatal bashing
+0.6356724052	guardian front page
+0.6338791183	sinnfeinireland president gerry adams
+0.6322073017	ebola crisis
+0.6318025452	ebola auspol
+0.6311120613	bombing raids
+0.6302740648	☀ ️
+0.6301204891	uk unemployment
+0.6297435495	oscar winning
+0.6296568435	belfast newslineweather weathercee
+0.6262578346	infected nurse
+0.6201693059	rotherham child abuse
+0.6177192001	police investigating
+0.6175136724	air france plane
+0.6172861444	journalist james foley
+0.6161691685	nsw deputy premier
+0.6125045855	economic girlie man
+0.6118522474	gaza ceasefire
+0.6098137699	south east
+0.6077063733	️ ⚡ ️
+0.6068604474	striking images
+0.6065965422	winner richard flanagan
+0.6011176234	u 2
+0.5987239761	air strikes
+0.5983225790	coronial inquest told
+0.5978137225	leaving uk
+0.5976215968	ukraine president
+0.5964016425	pc leadership
+0.5941499108	aid convoy
+0.5941313474	per cent
+0.5930794874	terror threat
+0.5923117881	presumption of guilt
+0.5922587028	giro poster
+0.5899219951	director richard attenborough
+0.5870344233	health minister
+0.5863409788	speaking live
+0.5848311191	low income
+0.5841823860	thousands attend
+0.5841823860	train disaster
+0.5820682795	zara phillips and mike tindall
+0.5772950385	qld police
+0.5722075925	⚡ ️ ☔ ️
+0.5714519903	news conference
+0.5713126179	☔ ️
+0.5648018289	ve changed
+0.5643217135	president elect joko widodo
+0.5628121358	havoc as storms batter nsw
+0.5589370636	behind bars
+0.5552796731	prince william and kate middleton
+0.5523970254	dies aged
+0.5471135646	seized in syrian golan heights
+0.5466079674	during bbcindyref debate
+0.5456260939	british ebola patient
+0.5438308185	vic police
+0.5417065313	giroditalia winner stephen
+0.5404812390	british ebola victim
+0.5369570248	police officers
+0.5285975250	israeli air strike
+0.5266841566	credit card with built in buttons
+0.5246237726	calgary police
+0.5241564560	report on foreign fighters legislation
+0.5217948385	43 un peacekeepers
+0.5187245605	mh 17
+0.5150958751	resigns from labour party
+0.5149751593	become widespread
+0.5149615229	interest rate
+0.5145163876	duchess of cambridge reveals childhood scar
+0.5141382324	eugenie bouchard loses to petra kvitova
+0.5126815085	ebola outbreak
+0.5097207046	ahead as quarterly profits drop
+0.5096936349	facebook and apple offer
+0.5092757571	italia experience in coppibelfast
+0.5089361690	400 rotherham children
+0.5083615229	36 recommendations
+0.5053340430	re introduce budget
+0.5023290979	bill shorten
+0.4981253069	irish news masthead pink
+0.4931082008	surf continue to wreak
+0.4928653077	other hostages
+0.4927121471	back story
+0.4917442790	roche giroditalia with discoverni girostart2014 pink
+0.4898095587	bombing isis in iraq
+0.4874903519	actor and film director
+0.4862494810	view over galway bay
+0.4825304886	first nations
+0.4816154812	alert for bardarbunga volcano
+0.4775233335	lose brains over mannequins in lingerie
+0.4757152490	italia dining experience in coppibelfast
+0.4731170804	$ 4
+0.4729271239	israeli air strike on gaza
+0.4580083997	richard attenborough dies aged 90
+0.4548950256	guide to girostart2014 giroditalia giro
+0.4501202276	semifinals at wimbledon
+0.4494011882	douglas carswell defects to ukip
+0.4490800045	highest level since
+0.4487329856	irish news today win
+0.4465918905	globe and mail
+0.4412274578	us army
+0.4393142712	earth_news hi
+0.4309907020	flights over syria
+0.4292355965	ons says bbcbreaking
+0.4289075799	man held
+0.4243124896	funeral of albert reynolds
+0.4222824532	aged 90
+0.4213898282	showbiz interviews fashion legend &
+0.4209189541	culture of denial
+0.4204849233	schools get creative with giro
+0.4159085228	fatal assault in melbourne
+0.4071195597	this afternoon
+0.4062239626	accused of duping activists into relationships
+0.4048256168	fired from gaza
+0.3954212592	so far
+0.3886844029	raised from substantial to severe
+0.3881345633	david cameron mulls joining obama in
+0.3867805436	james foley video
+0.3860310740	canadian press election call
+0.3833691827	tory mp douglas carswell defects to
+0.3831052751	duchess of cambridge
+0.3796067219	an active shooter
+0.3777704995	s fort lee base
+0.3774436430	username to independent
+0.3771159223	remembering 25 years
+0.3735400900	precisetweets hi
+0.3674336399	august 2014
+0.3656908951	italia experience in coppibelfast & ilpiratabelfast
+0.3579352264	dies aged 90
+0.3563192831	sunrise over dublin
+0.3549748846	indonesia prepares for new president
+0.3459636436	d day
+0.3412938863	poster to win visit from giroditalia
+0.3410593938	next few days
+0.3314436170	an exclusion zone
+0.3308824313	school winner of visit by stephen
+0.3300891233	jobs in july
+0.3249538730	albiestar hi
+0.3249538730	oupacademic hi
+0.3249538730	helpcourses hi
+0.3249538730	meetchina hi
+0.3249538730	porrahudson hi
+0.3249538730	neighborhoodfp hi
+0.3249538730	owenjones84 hi
+0.3243184942	found dead
+0.3236304790	accused of killing
+0.3235082647	this statement
+0.3182207186	25 years
+0.3165848885	26 august
+0.3162192653	ireland from space
+0.3153386306	notices to 34
+0.3150452598	second quarter
+0.3143655939	charged with murder
+0.3142651546	scattered showers across
+0.3133804795	six months
+0.3118209361	all areas
+0.3055863453	irish news today win gusto d
+0.3017325635	only ever do
+0.3007513504	re now
+0.2985621703	40 years
+0.2984333851	this week
+0.2937165844	not political
+0.2913623778	man arrested
+0.2908225305	more than 200
+0.2905602476	warns of cuts to services
+0.2874216515	details soon
+0.2867558992	time jobs
+0.2865327627	twitter name
+0.2862086917	ebola case
+0.2860423319	40 years ago
+0.2857258613	win gusto d
+0.2833353692	year ahead as quarterly profits drop
+0.2789657165	ontario election
+0.2762471108	level since
+0.2742441652	the breaking news app
+0.2739134169	2 daughters
+0.2734869490	in irish news tmro
+0.2732748910	second time
+0.2730471714	at least 10
+0.2728234915	second reading
+0.2713768198	children at risk of serious abuse
+0.2712198629	the frock
+0.2692976415	prosecutors say
+0.2625456499	numbers show
+0.2624604502	man into custody
+0.2618790158	say activists
+0.2610831130	beheading of us journalist
+0.2604714441	bank of canada
+0.2601847390	does n't
+0.2574505886	bank of england
+0.2571398413	found alive
+0.2566633921	more coming
+0.2554563117	year old
+0.2545197123	assault outside
+0.2533345513	please follow
+0.2523711240	showers across
+0.2518538063	$ 1
+0.2516569946	year old son
+0.2514567553	inquiry into
+0.2498072515	immigration bill
+0.2492059767	following fatal assault
+0.2482743668	to free james foley
+0.2478572439	an abandoned
+0.2478291004	over 16 year period
+0.2475121030	less than
+0.2461227382	charges against
+0.2435680333	talks about
+0.2420451601	this evening
+0.2417781727	each other
+0.2403871675	of cbc news network december 31
+0.2384702094	sunni mosque in
+0.2375793003	double homicide in
+0.2364439490	passengers on flight with ebola
+0.2355153153	first quarter
+0.2352682553	s irish news
+0.2331914836	via maurinor
+0.2327486383	children at risk
+0.2322344633	figures show
+0.2289789503	analysts say
+0.2271975205	live now
+0.2251523455	canada day
+0.2235191078	way through
+0.2218693357	look like
+0.2214744124	action against
+0.2210746819	do n't
+0.2206498815	leaves more than
+0.2195738415	tough year
+0.2195596317	officials say
+0.2162320063	tests positive for
+0.2152376263	show cause
+0.2139528066	positive for ebola
+0.2111912979	25 years of cbc news network
+0.2101904571	chief warns against rush to
+0.2087858249	via davidpaddon
+0.2076918685	at tilbury docks
+0.2047669070	here comes
+0.2041893494	two men
+0.2035152678	experience in coppibelfast & ilpiratabelfast 10
+0.2025221515	2 men
+0.2021368960	health ministry says
+0.2015630455	at hmas cerberus
+0.2015224800	last night
+0.2005268222	onthejob with
+0.1983743881	in today
+0.1979730675	via lindanguyento
+0.1945574935	right now
+0.1911733059	much as
+0.1900923280	via rossmarowits
+0.1873948125	red alert for
+0.1868774773	please follow independent
+0.1858098282	nine year old
+0.1839842444	says ebola outbreak
+0.1819789755	irish time
+0.1794324916	$ 1 million defamation claim against
+0.1789928713	via dj_friend
+0.1768865364	this morning
+0.1768525446	kills at least
+0.1767266839	in container at tilbury docks
+0.1758602700	president obama says
+0.1750844655	liberals cruise to
+0.1745436027	some thundery downpours likely
+0.1714436102	row over
+0.1712417983	the uk news
+0.1711827021	for female staff
+0.1691010503	at least
+0.1689220633	dress goes on
+0.1670211038	good morning
+0.1630400930	40 year
+0.1614879690	jamaledwards hi
+0.1610370585	a brisbane mother
+0.1600303727	the state funeral of albert reynolds
+0.1596637465	canada rings in
+0.1578356777	investigation into
+0.1572731218	one year
+0.1569659542	steps down as
+0.1563757460	israeli military says
+0.1555155602	western half of
+0.1542327915	over carrickfergus
+0.1534132983	to bring back legislature
+0.1531354671	on skybusiness
+0.1491366792	here & to celebrate girostart2014
+0.1486749330	a beautiful morning
+0.1484593127	the australian newspaper
+0.1471128420	a fatal assault
+0.1467159635	over death of man
+0.1457365385	shot dead by
+0.1452264002	more than
+0.1450181924	at 6pm
+0.1428782137	from liberal
+0.1401513230	the pc
+0.1398044552	the hill
+0.1383954054	in west africa
+0.1374455203	last year
+0.1369336715	next year
+0.1365352448	s royal tour
+0.1358128317	report into
+0.1351126158	police say
+0.1336771391	spokesman says
+0.1336771391	research says
+0.1322992008	s eugenie bouchard
+0.1316924203	another beautiful day
+0.1285950730	of us journalist james foley
+0.1284737203	new homes
+0.1282266247	david cameron says
+0.1271699157	dealing with
+0.1270979943	in sierra leone
+0.1268119070	ukbitdefender hi
+0.1268119070	fsb_hq hi
+0.1268119070	aperturefnd hi
+0.1260429261	in ferguson
+0.1253082096	a true gusto d
+0.1229604193	on sky news
+0.1221710018	next on pmagenda
+0.1209907329	after lorry
+0.1199172294	year old man
+0.1182753753	more here
+0.1151336013	as well
+0.1145217651	the gap
+0.1132058398	a mcdonalds in melbourne
+0.1131005871	this year
+0.1129085411	a 15yo
+0.1126556462	uk police
+0.1070923032	people killed
+0.1069696016	focus on
+0.1069696016	divided on
+0.1060040381	relying on
+0.1058981286	& ilpiratabelfast 10 meals to
+0.1052728418	the new millennium
+0.1047485748	a 40 year old cold case
+0.1022488517	this morning galway
+0.1021462248	a nice
+0.1021462248	a fiery
+0.1012575628	to send
+0.1011208062	jailed for
+0.0992915375	trapped in
+0.0987888427	held on suspicion of
+0.0986732451	on suspicion of manslaughter
+0.0977469237	matters to
+0.0976802571	tribute to
+0.0975692494	face to face with
+0.0969548463	the ontario election
+0.0968445420	s royal tour of canada and
+0.0967236679	agree to
+0.0958132519	terror threat to
+0.0945603986	in northern ireland
+0.0942985146	over death of
+0.0940957246	the moment
+0.0928757715	for 40 years
+0.0924034979	to resign
+0.0897716266	of james foley
+0.0865494439	for more of
+0.0858713126	for season 2
+0.0857297818	ahead of
+0.0849979153	to atlantic canada
+0.0840115892	wanted after
+0.0836490251	parts of
+0.0834180330	kencam on
+0.0819217190	number of
+0.0819217190	rest of
+0.0812816847	in us led
+0.0807633478	to tackle
+0.0806745340	in red river
+0.0803192544	in 2015
+0.0795131168	agree on
+0.0775729445	a look at
+0.0775042332	live now on
+0.0756989311	the queen
+0.0756061721	a few
+0.0752546610	the world
+0.0747460819	invest in
+0.0742762658	s palaces
+0.0741170163	timhudak says
+0.0738276216	funeral of
+0.0736818539	order to
+0.0735108542	up next on
+0.0732610464	turn to
+0.0731952918	s wedding dress goes on
+0.0728056602	trip to
+0.0716901716	tickets to
+0.0709070718	the future
+0.0700156172	in syria
+0.0692606980	the table
+0.0689904460	day two as
+0.0684056442	for first time
+0.0682102937	of art
+0.0678326413	calls for
+0.0677704985	the nrl
+0.0674778986	the cormannator
+0.0674493948	the country
+0.0661941952	the yoga
+0.0658179145	s kencam
+0.0656263654	against ebola
+0.0650969504	of man in
+0.0643868059	in custody
+0.0635674428	to build
+0.0634787500	the western half of
+0.0634329580	the west
+0.0627719687	from africa
+0.0623990618	in edmonton
+0.0620053705	charged with murder of
+0.0615560382	a mcdonalds
+0.0613649338	hit by
+0.0596997883	break in
+0.0596170585	killed after
+0.0592650295	to receive
+0.0592650295	to deploy
+0.0590653100	the age of
+0.0590142323	of cambridge
+0.0588346332	a british
+0.0582365004	in minsk
+0.0576941547	to cut
+0.0576941547	to create
+0.0576941547	to freeze
+0.0576941547	to nigeria
+0.0576924403	in sport
+0.0571074623	in race to find
+0.0567117404	in relation to
+0.0567117404	in wake of
+0.0563695370	by flooding
+0.0548898259	millions of
+0.0548256516	changes to
+0.0547575344	last night in
+0.0540318475	accused of
+0.0537608254	hundreds of
+0.0534919162	s just
+0.0528601194	one of
+0.0519133365	to keep
+0.0518506623	killed by
+0.0516299156	to pay
+0.0515089680	the death of
+0.0511588710	attack on
+0.0504013418	call for
+0.0502845074	in gaza
+0.0500483027	family says
+0.0497508052	to win
+0.0495940416	from space
+0.0491513903	by 3
+0.0486687874	people found
+0.0484379459	the end of
+0.0483712241	looks at
+0.0479833651	today on
+0.0474386328	willing to
+0.0474386328	welcome to
+0.0469325439	found dead in
+0.0467172562	the nrl for
+0.0446322321	at wimbledon
+0.0444800721	charged with
+0.0441168204	first with
+0.0428106152	account of
+0.0428106152	inauguration of
+0.0421372710	the sun
+0.0419850112	team of
+0.0415309832	city of
+0.0412548807	university of
+0.0411020268	life of
+0.0410563577	kathleen_wynne says
+0.0407611223	images from
+0.0406705109	images of
+0.0401664445	diagnosed with
+0.0399251037	rise in
+0.0397038735	tonight on
+0.0393820415	a man
+0.0392454413	as leader
+0.0391952175	return to
+0.0388649710	by russia
+0.0382910266	the north
+0.0379203855	the province
+0.0379203855	the govt
+0.0375913688	a year
+0.0367120298	tips on
+0.0361670006	s death
+0.0360893883	begin at
+0.0360474368	to meet
+0.0353709299	look at
+0.0347701018	a new
+0.0347229012	at london
+0.0344770953	response to
+0.0341516066	a mortgage
+0.0340724255	in july
+0.0340533378	to fight
+0.0340241810	in iraq
+0.0340094795	guilty to
+0.0334081367	found in
+0.0333996472	s first
+0.0331035771	a view
+0.0326879594	actor and
+0.0324313925	to show
+0.0322516663	to quit
+0.0322516663	to start
+0.0321327339	on sky
+0.0319466706	a second
+0.0319454823	in place
+0.0317364726	sky over
+0.0315202636	bank of
+0.0315067455	dies at
+0.0315063285	in ukraine
+0.0313623581	s body
+0.0312516663	to continue
+0.0312516663	to counter
+0.0308086256	to help
+0.0305016663	in pictures
+0.0305016663	in somerset
+0.0304247432	in edinburgh
+0.0303974836	the next
+0.0303925383	day one
+0.0303130978	duke of
+0.0302627713	the way
+0.0302243570	to make
+0.0301797748	the 2014
+0.0301792053	a long
+0.0301211957	of 3
+0.0299489104	with ebola
+0.0297798362	back at
+0.0294810946	woman with
+0.0294745729	missing from
+0.0293682389	detained in
+0.0293369956	live from
+0.0291444132	to work
+0.0291444132	seems to
+0.0291444132	comes to
+0.0289280410	murder of
+0.0288784761	loss of
+0.0287913016	report on
+0.0287798362	back with
+0.0284302633	a job
+0.0283513171	lightning and
+0.0283390822	rises to
+0.0280956567	days of
+0.0280956567	reports of
+0.0280332371	years of
+0.0279523224	live on
+0.0277175489	to leave
+0.0277175489	to hit
+0.0276795185	plan to
+0.0276730301	plan for
+0.0275508822	in adelaide
+0.0275508822	to step
+0.0275284108	the story
+0.0275136471	open to
+0.0274967439	arrest over
+0.0274938432	died in
+0.0274322685	changes in
+0.0271789125	search for
+0.0271720708	in egypt
+0.0271612920	of murdering
+0.0271576641	for alleged
+0.0270956567	plans for
+0.0270615295	beheading of
+0.0270556567	ready for
+0.0270180513	end of
+0.0269644340	chief says
+0.0267722381	arrested over
+0.0267551050	to consider
+0.0267551050	to become
+0.0266395185	reelected in
+0.0263685965	a 40
+0.0263620184	dead at
+0.0262495451	a full
+0.0261884041	tour of
+0.0261884041	view of
+0.0261141858	s car
+0.0261141858	s father
+0.0260395896	in dublin
+0.0260240893	of government
+0.0258475191	to join
+0.0256575967	the road
+0.0255899137	a good
+0.0252318824	release of
+0.0251884041	body of
+0.0251884041	pay for
+0.0250375624	night in
+0.0249358966	fire at
+0.0249262135	to 2
+0.0248541810	s like
+0.0246988934	says canada
+0.0246332047	a look
+0.0243804874	of giroditalia
+0.0243593435	to watch
+0.0242397133	warns of
+0.0242140923	to 1
+0.0241708477	right to
+0.0240375624	cases in
+0.0239869416	mother and
+0.0239620739	s home
+0.0237542308	to stay
+0.0237140923	to 20
+0.0236642585	use of
+0.0235587510	role in
+0.0235258956	of oscar
+0.0234084064	threat to
+0.0234084064	death of
+0.0234084064	cuts to
+0.0234084064	falls to
+0.0233326914	in melbourne
+0.0233193435	in china
+0.0230094963	in co
+0.0228782054	on u
+0.0227960875	the royalwedding
+0.0227616047	to toronto
+0.0222898782	4 in
+0.0222666224	the first
+0.0221184786	to take
+0.0221184786	time to
+0.0219962845	more on
+0.0216922031	goes on
+0.0216630775	in county
+0.0215359375	over ebola
+0.0215359375	by police
+0.0215173057	the new
+0.0211341302	to uk
+0.0207675056	to independent
+0.0207484559	the day
+0.0207344392	of serious
+0.0207065558	to ground
+0.0206620480	to bring
+0.0206620480	s national
+0.0204334465	on pmagenda
+0.0203899683	s bouchard
+0.0202832367	to return
+0.0198502641	now at
+0.0196620480	of appeal
+0.0196387922	to remove
+0.0195847556	of scotland
+0.0195835974	a first
+0.0195682862	for more
+0.0195112063	says bbcbreaking
+0.0195112063	s wedding
+0.0194547860	the former
+0.0193335974	need to
+0.0192280419	more of
+0.0192280419	s still
+0.0191556507	in summer
+0.0191323949	to face
+0.0191323949	to support
+0.0185375154	of derry
+0.0185171072	to play
+0.0185171072	the east
+0.0185171072	s president
+0.0183394984	in four
+0.0183335974	want to
+0.0181323949	in race
+0.0181323949	in north
+0.0181323949	in sydney
+0.0178780419	to new
+0.0176625154	of killing
