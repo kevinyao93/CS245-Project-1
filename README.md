@@ -31,20 +31,23 @@ train_BERT_expand_tag_CoNLL.txt: the tagged training set on CoNLL using BERT
 <br/>
 train_Spacy_expand_tag_CoNLL.txt: the tagged training set on CoNLL using Spacy
 <br/>
-annotated_train_sentences_CoNLL.txt: The training sentences of conll
+annotated_train_sentences_CoNLL.txt: The training sentences of CoNLL
 <br/>
 annotated_train_tags_CoNLL.txt: the original training tag of CoNLL.
 <br/>
+
 To train with the entity set expansion result, use train_BERT_expand_tag_CoNLL.txt OR train_Spacy_expand_tag_CoNLL.txt with annotated_train_sentences_CoNLL.txt. To train with oriignal sentence, use annotated_train_sentences_CoNLL.txt with annotated_train_tags_CoNLL.txt. 
 <br/>
 To test the training model on ConLL data, use annotated_test_sentences_CoNLL.txt with annotated_test_tags_CoNLL.txt as the test input. 
 <br/>
+
 A subsection of twitter data(section g):
 <br/>
 To train with the entity set expansion result, use train_twitter_g_sentences.txt with train_twitter_g_tags.txt. To train with oriignal sentence, use annotated_train_sentences_twitter_g.txt with annotated_train_tags.txt_twitter_g.txt
 <br/>
 To test the training model on test set of g, use annotated_test_tags.txt_twitter_g.txt and annotated_test_sentences_twitter_g.txt as the test input.
 <br/>
+
 Result leveraging the plain twitter data:
 <br/>
 To train the model on entity set expansion of plain twitter data only, please uncompress 0322_sentences_ and_tags.zip and get train_twitter_sentences_0322.txt and train_twitter_tags_0322.txt
