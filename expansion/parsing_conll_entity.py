@@ -13,7 +13,7 @@ for i in range(len(entities)):
     entities[i]=entities[i].lower()
 entities=set(entities)
 
-with open('./all_train_sentences/train_sentences_CoNLL.txt','r') as f:
+with open('./all_train_sentences/CoNLL_train.txt','r') as f:
     texts=[]
     tags=[]
     line=f.readline()
