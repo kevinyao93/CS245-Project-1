@@ -3,8 +3,7 @@ Seed-based Weakly Supervised Named Entity Recognition
 
 
 
-
-<b> Setup for Tensorflow-Named Entity Recognition </b>
+# Setup for Tensorflow-Named Entity Recognition (this is important wheather you want to do a train/test on model directly or do anyhting from start)
 
 Note 
 
@@ -22,16 +21,45 @@ Can either follow steps within the readme, but here's a summary
 
 - To generate a predicted tags file from an input, go to interact.py and change the INPUT_FILE. Updated to direclty read in a text file and return an output_tags.txt file.
 
+
+<h1>If you want to run tagged training files directly and do the test</h1>
+in tf_ner/data/testdata1, there are already files fit the input format of our model. Some of them are annotated using human annotation and some of them are based on entity set expansion. Here are the detail explainataions of each file:
+
+ConLL:
+train_BERT_expand_tag_CoNLL.txt: the tagged training set on CoNLL using BERT
+train_Spacy_expand_tag_CoNLL.txt: the tagged training set on CoNLL using Spacy
+annotated_train_sentences_CoNLL.txt: The training sentences of conll
+annotated_train_tags_CoNLL.txt: the original training tag of CoNLL.
+
+To train with the entity set expansion result, use train_BERT_expand_tag_CoNLL.txt OR train_Spacy_expand_tag_CoNLL.txt with annotated_train_sentences_CoNLL.txt. To train with oriignal sentence, use annotated_train_sentences_CoNLL.txt with annotated_train_tags_CoNLL.txt. 
+
+To test the training model on ConLL data, use annotated_test_sentences_CoNLL.txt with annotated_test_tags_CoNLL.txt as the test input. 
+
+A subsection of twitter data(section g):
+To train with the entity set expansion result, use train_twitter_g_sentences.txt with train_twitter_g_tags.txt. To train with oriignal sentence, use annotated_train_sentences_twitter_g.txt with annotated_train_tags.txt_twitter_g.txt
+
+To test the training model on test set of g, use annotated_test_tags.txt_twitter_g.txt and annotated_test_sentences_twitter_g.txt as the test input.
+
+Result leveraging the plain twitter data:
+To train the model on entity set expansion of plain twitter data only, please uncompress 0322_sentences_ and_tags.zip and get train_twitter_sentences_0322.txt and train_twitter_tags_0322.txt
+
+To train the model on entity set expansion of plain twitter data with the training data from broad twitter training set, please uncompress 0322_sentences_ and_tags.zip and get train_twitter_sentences_0322.txt and train_twitter_tags_0322.txt. THEN, concat the train_sentences.txt and train_twitter_sentences_0322.txt as a new training file, concat train_broad_tag_by_entity.txt with train_twitter_tags_0322.txt as the new tag file to train.
+
+To test the training model on test set, use test_tags.txt and test_sentences.txt as the test input.
+
+
+<h1>If you want to do everything from the start</h1>
 <b> Generated phrases from Twitter</b>
 
 
 We put a example zip file (2020-03-22_clean-hydrated.zip) in the repository. This is the compressed result from one of our text file (2020-03-22_clean-hydrated.txt) as a example. We used Autophrase to mine the phrases from 7 text files like this. Due to the github size restrictions, we can't upload everything related to AutoPhrase to make it run. However, the process of running autoPhrase as follow:
 
+<h5>NOTE</h5>
 1. put your txt file into data/EN (in this case would be 2020-03-22_clean-hydrated.txt)
 2. run auto_phrase.sh
 3. find your result in model/DBLP, notice that the Autophrase.txt is the file we need(this file includes salient phrases).
 4. Do a parsing to remove the scores in each line, and remove all phrases with 3 or more words.
-If you want to run AutoPhrase with full experience, please pull its original repo https://github.com/shangjingbo1226/AutoPhrase/tree/master/src and replace auto_phrase.sh with the one shown in our repository.
+<b>If you want to run AutoPhrase with full experience, please pull its original repo https://github.com/shangjingbo1226/AutoPhrase/tree/master/src and replace auto_phrase.sh with the one shown in our repository.</b>
 
 We put the generated AutoPhrase.txt, rename those, in a folder called AutoPhrase result. This is the result doing step 1 to 3. We also include a parsing file to do step 4 in the same folder.
 
