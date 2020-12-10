@@ -13,7 +13,9 @@ Can either follow steps within the readme, but here's a summary
 - Install tf_metrics
 - Within the datafile (in our case testdata1) run make download-glove, will get the vector file
 - An existing dataset exists within testdata1, you can change if wished, but if you just want to test the existing dataset, just directly run make build.
-
+  - The current main function of the model utilizes a set format to train and test the files.
+  - Training the model: select the tag file and rename it: train.tags.txt, and name the text file: train.words.txt
+  - Testing files: same vein as training, but use testa.tags.txt / testa.words.txt and testb.tags.txt / testb.words.txt
 - Current implementation only uses lstf_crf_ema model, but for more models check out https://github.com/guillaumegenthial/tf_ner
 - Go to the models/lstf_crf_ema folder, and run python main.py (This will train the bi-lstm + crf on the dataset)
 - This will generate a results folder that will include the score inside and have the predictions for each train/test dataset.
