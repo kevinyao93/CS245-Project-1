@@ -79,6 +79,7 @@ We put a example zip file (`2020-03-22_clean-hydrated.zip`) in the repository. T
 2. run `./auto_phrase.sh`
 3. find your result in `model/DBLP`, notice that the `Autophrase.txt` is the file we need (this file includes salient phrases).
 4. Do a parsing to remove the scores in each line, and remove all phrases with 3 or more words.
+    
     **NOTE: because AutoPhrase requires many other tools related so we can't upload a whole repository of AutoPhrase files in here**
     **If you want to run AutoPhrase with full experience, please pull its original repo https://github.com/shangjingbo1226/AutoPhrase/tree/master/src and replace auto_phrase.sh with the one shown in our repository.**
 
