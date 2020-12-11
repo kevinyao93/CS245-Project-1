@@ -17,11 +17,13 @@ Can either follow steps within the readme, but here's a summary
 - Install [`tf_metrics`](https://github.com/guillaumegenthial/tf_metrics) following the steps in `tf_ner/README.md`
 - Enter the datafile directory (in our case `cd tf_ner/data/testdata1`) , then run `make download-glove`, will get the vector file.
 - An existing dataset is in testdata1, you can change if wished, but if you just want to test the existing dataset, just directly run `make build`.
+  - If a specific dataset is desired, optional inputs are available running `testa` and `train` by default. First build the vocab with `python make_vocab.py --test {testa} --train {train}`
   - The current main function of the model utilizes a set format to train and test the files.
   - Training the model: select the tag file and rename it: train.tags.txt, and name the text file: train.words.txt
   - Testing files: same vein as training, but use testa.tags.txt / testa.words.txt and testb.tags.txt / testb.words.txt
 - Current implementation only uses lstf_crf_ema model, but for more models check out https://github.com/guillaumegenthial/tf_ner
 - Go to the `tf_ner/models/lstf_crf_ema` folder, and run `python main.py` (This will train the bi-lstm + crf on the dataset)
+  - If vocab was built on specific test set and not default, use the same commands above `python main.py --test {testa} --train {train}` to run.
 - This will generate a results folder that will include the score inside and have the predictions for each train/test dataset.
 - To get recall,precision and f1 score, run `../conlleval < results/score/{name}.preds.txt > results/score/score.{name}.metrics.txt`
 - To generate a predicted tags file from an input, go to `interact.py` and change the `INPUT_FILE`. Updated to directly read in a text file and return an `output_tags.txt` file.
