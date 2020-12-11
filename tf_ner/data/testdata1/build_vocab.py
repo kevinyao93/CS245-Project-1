@@ -4,6 +4,7 @@ __author__ = "Guillaume Genthial"
 
 from collections import Counter
 from pathlib import Path
+import argparse
 
 # TODO: modify this depending on your needs (1 will work just fine)
 # You might also want to be more clever about your vocab and intersect
@@ -13,12 +14,21 @@ MINCOUNT = 1
 if __name__ == '__main__':
     # 1. Words
     # Get Counter of words on all the data, filter by min count, save
+    parser = argparse.ArgumentParser(description='Input file names, default to train and testa')
+    parser.add_argument('--test', default='testa')
+    parser.add_argument('--train', default='train')
+
+    args = vars(parser.parse_args())
+
+    testfile = args['test']
+    trainfile = args['train']
+
     def words(name):
         return '{}.words.txt'.format(name)
 
     print('Build vocab words (may take a while)')
     counter_words = Counter()
-    for n in ['train', 'testa']:
+    for n in [trainfile, testfile]:
         with Path(words(n)).open() as f:
             for line in f:
                 counter_words.update(line.strip().split())
@@ -51,7 +61,7 @@ if __name__ == '__main__':
 
     print('Build vocab tags (may take a while)')
     vocab_tags = set()
-    for n in ['train', 'testa']:
+    for n in [trainfile, testfile]:
         with Path(tags(n)).open() as f:
             for line in f:
                 vocab_tags.update(line.strip().split())

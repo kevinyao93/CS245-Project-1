@@ -7,6 +7,7 @@ import json
 import logging
 from pathlib import Path
 import sys
+import argparse
 
 import numpy as np
 import tensorflow as tf
@@ -203,10 +204,19 @@ if __name__ == '__main__':
     def ftags(name):
         return str(Path(DATADIR, '{}.tags.txt'.format(name)))
 
+    parser = argparse.ArgumentParser(description='Input file names, default to train and testa')
+    parser.add_argument('--test', default='testa')
+    parser.add_argument('--train', default='train')
+
+    args = vars(parser.parse_args())
+
+    testfile = args['test']
+    trainfile = args['train']
+
     # Estimator, train and evaluate
-    train_inpf = functools.partial(input_fn, fwords('train'), ftags('train'),
+    train_inpf = functools.partial(input_fn, fwords(trainfile), ftags(trainfile),
                                    params, shuffle_and_repeat=True)
-    eval_inpf = functools.partial(input_fn, fwords('testa'), ftags('testa'))
+    eval_inpf = functools.partial(input_fn, fwords(testfile), ftags(testfile))
 
     cfg = tf.estimator.RunConfig(save_checkpoints_secs=120)
     estimator = tf.estimator.Estimator(model_fn, 'results/model', cfg, params)
@@ -230,6 +240,6 @@ if __name__ == '__main__':
                     f.write(b' '.join([word, tag, tag_pred]) + b'\n')
                 f.write(b'\n')
 
-    for name in ['train', 'testa']:
+    for name in [trainfile, testfile]:
         for mode in ['tags', 'tags_ema']:
             write_predictions(name, mode)

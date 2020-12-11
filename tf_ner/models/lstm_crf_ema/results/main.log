@@ -4,7 +4,7 @@ graph_options {
     meta_optimizer_iterations: ONE
   }
 }
-, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_protocol': None, '_eval_distribute': None, '_experimental_distribute': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x129507fd0>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_protocol': None, '_eval_distribute': None, '_experimental_distribute': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x12e1db250>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
 Not using Distribute Coordinator.
 Running training and evaluation locally (non-distributed).
 Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
@@ -21,7 +21,7 @@ tf.py_func is deprecated in TF V2. Instead, use
     being differentiable using a gradient tape.
     
 Calling model_fn.
-From main.py:79: dropout (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+From main.py:80: dropout (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
 Instructions for updating:
 Use keras.layers.dropout instead.
 From /Users/kevinyao/.pyenv/versions/3.7.9/lib/python3.7/site-packages/tensorflow/python/keras/layers/core.py:143: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
@@ -30,7 +30,7 @@ Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep
 From /Users/kevinyao/.pyenv/versions/3.7.9/lib/python3.7/site-packages/tensorflow/contrib/rnn/python/ops/lstm_ops.py:696: to_int64 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
 Instructions for updating:
 Use tf.cast instead.
-From main.py:93: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+From main.py:94: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
 Instructions for updating:
 Use keras.layers.dense instead.
 From /Users/kevinyao/.pyenv/versions/3.7.9/lib/python3.7/site-packages/tensorflow/contrib/crf/python/ops/crf.py:567: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
@@ -48,82 +48,4 @@ Graph was finalized.
 Running local_init_op.
 Done running local_init_op.
 Saving checkpoints for 0 into results/model/model.ckpt.
-loss = 26.930267, step = 1
-global_step/sec: 35.977
-loss = 1.0923786, step = 101 (2.780 sec)
-global_step/sec: 37.742
-loss = 0.6062601, step = 201 (2.649 sec)
-global_step/sec: 39.6122
-loss = 0.32572976, step = 301 (2.524 sec)
-global_step/sec: 37.1851
-loss = 0.5950427, step = 401 (2.689 sec)
-global_step/sec: 36.4563
-loss = 0.45398483, step = 501 (2.743 sec)
-global_step/sec: 38.9637
-loss = 0.7944843, step = 601 (2.566 sec)
-global_step/sec: 36.5483
-loss = 0.35916004, step = 701 (2.736 sec)
-global_step/sec: 33.8596
-loss = 0.4556492, step = 801 (2.953 sec)
-global_step/sec: 33.8221
-loss = 0.24555664, step = 901 (2.957 sec)
-global_step/sec: 33.8391
-loss = 0.40717715, step = 1001 (2.955 sec)
-global_step/sec: 33.2499
-loss = 0.20356807, step = 1101 (3.008 sec)
-global_step/sec: 31.5943
-loss = 0.43651828, step = 1201 (3.165 sec)
-global_step/sec: 34.4773
-loss = 0.2611124, step = 1301 (2.900 sec)
-global_step/sec: 34.8562
-loss = 0.09610844, step = 1401 (2.869 sec)
-global_step/sec: 36.6373
-loss = 0.036643602, step = 1501 (2.729 sec)
-global_step/sec: 36.2304
-loss = 0.08588123, step = 1601 (2.760 sec)
-global_step/sec: 35.7516
-loss = 0.14503822, step = 1701 (2.797 sec)
-global_step/sec: 33.7158
-loss = 0.034011077, step = 1801 (2.966 sec)
-Saving checkpoints for 1869 into results/model/model.ckpt.
-Calling model_fn.
-Done calling model_fn.
-Starting evaluation at 2020-12-08T15:07:03Z
-Graph was finalized.
-From /Users/kevinyao/.pyenv/versions/3.7.9/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
-Instructions for updating:
-Use standard file APIs to check for files with this prefix.
-Restoring parameters from results/model/model.ckpt-1869
-Running local_init_op.
-Done running local_init_op.
-Evaluation [10/100]
-Evaluation [20/100]
-Evaluation [30/100]
-Finished evaluation at 2020-12-08-15:07:04
-Saving dict for global step 1869: acc = 0.83756626, acc_ema = 0.8349169, f1 = 0.18584454, f1_ema = 0.16184448, global_step = 1869, loss = 41.247475, pr = 0.652439, pr_ema = 0.75527424, rc = 0.10835443, rc_ema = 0.09063291
-Saving 'checkpoint_path' summary for global step 1869: results/model/model.ckpt-1869
-Loss for final step: 0.061993916.
-Calling model_fn.
-Done calling model_fn.
-Graph was finalized.
-Restoring parameters from results/model/model.ckpt-1869
-Running local_init_op.
-Done running local_init_op.
-Calling model_fn.
-Done calling model_fn.
-Graph was finalized.
-Restoring parameters from results/model/model.ckpt-1869
-Running local_init_op.
-Done running local_init_op.
-Calling model_fn.
-Done calling model_fn.
-Graph was finalized.
-Restoring parameters from results/model/model.ckpt-1869
-Running local_init_op.
-Done running local_init_op.
-Calling model_fn.
-Done calling model_fn.
-Graph was finalized.
-Restoring parameters from results/model/model.ckpt-1869
-Running local_init_op.
-Done running local_init_op.
+loss = 27.818033, step = 1
