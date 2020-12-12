@@ -205,3 +205,5 @@ Related codes can be found in `expansion/Clustering.ipynb`
 |            Bi-LSTM             |  annotated   |  0.7232   | 0.788  | 0.7542 |
 | Bi-LSTM + entity set expansion |     none     |  0.3636   | 0.4946 | 0.4191 |
 
+## Miscellaneous
+If you would like to see the human annotated locations in braod training set, check out `locations_from_train.txt`
