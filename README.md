@@ -183,11 +183,9 @@ Here are some of our experiments results:
 
 **Results of K-means Clustering on spaCy embeddings:**
 
-Related codes can be found in `expansion/Clustering.ipynb`
+Related codes can be found in `expansion/Clustering.ipynb`. The yellow points are expanded phrases which also appears in the core dictionary.
 
-![img](https://lh5.googleusercontent.com/JpLcBCi4uMNDDPas_CF5LnmS2bJLe5wtQEez0uJUHBfjls9Srl3LAWPIB3dKbozXG4Xq1JTr8fmHtzMFQMiW1JthmEyF_MGqC-OYqCt5HFTB9ge7l1cZafFK_zUOg8AESB3mCkQ)
-
-
+![img](https://drive.google.com/uc?export=view&id=1maPvkT1Jbcpls1SknjWdqULjK7puMr4q)
 
 ### Using Twitter data to evaluate the system
 
