@@ -204,7 +204,9 @@ Related codes can be found in `expansion/Clustering.ipynb`. The yellow points ar
 
 ## Reference
 Genthial, G. (2018). tf_ner. GitHub repository. Retrieved from https://github.com/guillaumegenthial/tf_ner
+
 Shang, J. (2016). AutoPhrase. GitHub repository. Retrieved from https://github.com/shangjingbo1226/AutoPhrase
+
 GateNLP. (2018). broad_twitter_corpus. GitHub repository. Retrieved from https://github.com/GateNLP/broad_twitter_corpus
 
 ## Miscellaneous
