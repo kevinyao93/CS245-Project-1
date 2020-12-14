@@ -202,5 +202,10 @@ Related codes can be found in `expansion/Clustering.ipynb`. The yellow points ar
 |            Bi-LSTM             |  annotated   |  0.7232   | 0.788  | 0.7542 |
 | Bi-LSTM + entity set expansion |     none     |  0.3636   | 0.4946 | 0.4191 |
 
+## Reference
+Genthial, G. (2018). tf_ner. GitHub repository. Retrieved from https://github.com/guillaumegenthial/tf_ner
+Shang, J. (2016). AutoPhrase. GitHub repository. Retrieved from https://github.com/shangjingbo1226/AutoPhrase
+GateNLP. (2018). broad_twitter_corpus. GitHub repository. Retrieved from https://github.com/GateNLP/broad_twitter_corpus
+
 ## Miscellaneous
 If you would like to see the human annotated locations in braod training set, check out `locations_from_train.txt`
