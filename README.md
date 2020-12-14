@@ -8,22 +8,22 @@ Seed-based Weakly Supervised Named Entity Recognition
 
 **Note:** 
 
-Prerequisites as follows. Can utilize `pyenv` to update local python environment.
+The prerequisites are listed below. You can utilize `pyenv` to update local python environment.
 
 1. `tensorflow==1.13.1`
 2. `python<=3.7.9` 
 
-Can either follow steps within the readme, but here's a summary
+More detailed explainations are further down. Here is a quick summary to run the model:
 - Install [`tf_metrics`](https://github.com/guillaumegenthial/tf_metrics) following the steps in `tf_ner/README.md`
-- Enter the datafile directory (in our case `cd tf_ner/data/testdata1`) , then run `make download-glove`, will get the vector file.
-- An existing dataset is in testdata1, you can change if wished, but if you just want to test the existing dataset, just directly run `make build`.
-  - If a specific dataset is desired, optional inputs are available running `testa` and `train` by default. First build the vocab with `python make_vocab.py --test {testa} --train {train}`
+- Enter the datafile directory (in our case, `cd tf_ner/data/testdata1`). Then run `make download-glove` to will get the vector file.
+- Our existing dataset is already in testdata1. This can be changed if desired, but if you just want to test the existing dataset, just directly run `make build`.
+  - If a specific dataset is desired, optional inputs are availabl. Datasets `testa` and `train` are run by default. First build the vocab with `python make_vocab.py --test {testa} --train {train}`
   - The current main function of the model utilizes a set format to train and test the files.
   - Training the model: select the tag file and rename it: train.tags.txt, and name the text file: train.words.txt
   - Testing files: same vein as training, but use testa.tags.txt / testa.words.txt and testb.tags.txt / testb.words.txt
-- Current implementation only uses lstf_crf_ema model, but for more models check out https://github.com/guillaumegenthial/tf_ner
-- Go to the `tf_ner/models/lstm_crf_ema` folder, and run `python main.py` (This will train the bi-lstm + crf on the dataset)
-  - If vocab was built on specific test set and not default, use the same commands above `python main.py --test {testa} --train {train}` to run.
+- The current implementation only uses lstf_crf_ema model, for more models check out https://github.com/guillaumegenthial/tf_ner
+- Go to the `tf_ner/models/lstm_crf_ema` folder and run `python main.py` (This will train the bi-lstm + crf on the dataset).
+  - If vocab was built on a specific test set and not default, use the same commands above `python main.py --test {testa} --train {train}` to run.
 - This will generate a results folder that will include the score inside and have the predictions for each train/test dataset.
 - To get recall,precision and f1 score, run `../conlleval < results/score/{name}.tags.preds.txt > results/score/score.{name}.metrics.txt`
 - To generate a predicted tags file from an input, go to `interact.py` and change the `INPUT_FILE`. Updated to directly read in a text file and return an `output_tags.txt` file.
@@ -75,7 +75,7 @@ To test the training model on test set, use `test_tags.txt` and `test_sentences.
 ### Generated phrases from Twitter
 
 
-We put a example zip file (`2020-03-22_clean-hydrated.zip`) in the repository. This is the compressed result from one of our text file (`2020-03-22_clean-hydrated.txt`) as a example. We used AutoPhrase to mine the phrases from 7 text files like this. Due to the GitHub size restrictions, we can't upload everything related to AutoPhrase to make it run. However, the process of running AutoPhrase as follow:
+We put a example zip file (`2020-03-22_clean-hydrated.zip`) in the repository. This is the compressed result from one of our text file (`2020-03-22_clean-hydrated.txt`) as a example. We used AutoPhrase to mine the phrases from 7 text files like this. Due to the GitHub size restrictions, we can't upload everything related to AutoPhrase to make it run. However, the process of running AutoPhrase is as follows:
 
 **NOTE**
 
@@ -89,7 +89,7 @@ We put a example zip file (`2020-03-22_clean-hydrated.zip`) in the repository. T
     **NOTE: because AutoPhrase requires many other tools related so we can't upload a whole repository of AutoPhrase files in here**
     **If you want to run AutoPhrase with full experience, please pull its original repo https://github.com/shangjingbo1226/AutoPhrase/tree/master/src and replace auto_phrase.sh with the one shown in our repository.**
 
-We renamed those generated `AutoPhrase.txt`, and put them in a folder `autophrase_result`. This is the result doing step 1 to 3. We also include a parsing file to do step 4 in the same folder (`autophrase_result/parsing.py`).
+We renamed those generated `AutoPhrase.txt`, and put them in a folder `autophrase_result`. This is the result from doing step 1 to 3. We also include a parsing file to do step 4 in the same folder (`autophrase_result/parsing.py`).
 
 We put all the phrases generated by AutoPhrase mining the Twitter texts into the folder `phrase_list`. Each file inside the folder is named after the date of the original full twitter text file (i.e. 0322 stands for tweets recorded on 03/22/2020)
 
