@@ -1,6 +1,7 @@
 # CS245-Project-1
 
 Seed-based Weakly Supervised Named Entity Recognition
+
 final report link: https://docs.google.com/document/d/1pr46og6OUH0CtA1EeRPMzR8dtxmElRWcpTtwErppqCU/edit?usp=sharing
 
 presentation link: https://docs.google.com/presentation/d/1CqWILq8dGP08GujHYxDf3SegNPJ8xVzqsT8is1H9mAo/edit?usp=sharing
